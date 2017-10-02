@@ -1,0 +1,19 @@
+{
+  "version": "1.1.0",
+  "name": "cordova-plugin-uid",
+  "cordova_name": "Uid",
+  "description": "Cordova plugin to get unique identifiers: UUID, IMEI, IMSI, ICCID and MAC.",
+  "license": "MIT",
+  "repo": "https://github.com/run1t/cordova-plugin-uid",
+  "issue": "",
+  "keywords": [],
+  "platforms": [
+    "android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ]
+}
